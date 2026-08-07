@@ -1,0 +1,7 @@
+com/legendarycore/framework/items/ItemBuilder.class
+com/legendarycore/listeners/MenuListener.class
+com/legendarycore/gui/MenuGUI.class
+com/legendarycore/database/DatabaseManager.class
+com/legendarycore/listeners/MenuListener$1.class
+com/legendarycore/commands/MenuCommand.class
+com/legendarycore/LegendaryCore.class

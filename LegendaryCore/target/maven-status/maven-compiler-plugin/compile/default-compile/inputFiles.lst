@@ -1,0 +1,16 @@
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/LegendaryCore.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/commands/MenuCommand.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/database/DatabaseManager.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/framework/config/ConfigManager.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/framework/gui/GUI.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/framework/items/ItemBuilder.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/framework/message/MessageManager.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/framework/player/PlayerManager.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/framework/sound/SoundManager.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/gui/MenuGUI.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/home/Home.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/home/HomeCommand.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/home/HomeGUI.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/home/HomeListener.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/home/HomeManager.java
+/workspaces/LegendaryCore/LegendaryCore/src/main/java/com/legendarycore/listeners/MenuListener.java

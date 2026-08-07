@@ -1,0 +1,22 @@
+name: LegendaryCore
+version: 1.0.0
+main: com.legendarycore.LegendaryCore
+api-version: '1.21'
+author: Nikhil9028
+website: https://github.com/Nikhil9028-maker/LegendaryCore
+
+commands:
+  menu:
+    description: Opens the player menu
+    usage: /menu
+
+  admin:
+    description: Opens the admin menu
+    usage: /admin
+
+permissions:
+  legendarycore.menu:
+    default: true
+
+  legendarycore.admin:
+    default: op
